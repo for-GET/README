@@ -4,7 +4,10 @@ This GitHub organization focuses on designing abstract HTTP helpers or coding re
 
 **This is one of the least opinionated collection of repositories that you will find on HTTP.**
 
-TODO explanations/references
+## More bla
+
+* http://hyperrest.github.io/2013-06-10-http-hell-no/
+* TODO explanations/references
 
 
 ## HTTP flow overview
