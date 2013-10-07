@@ -2,7 +2,7 @@
 
 This GitHub organization focuses on designing abstract HTTP helpers or coding reference implementations, as described in IETF/W3C/etc specifications.
 
-**This is the least opinionated collection of repositories that you will find.**
+**This is one of the least opinionated collection of repositories that you will find on HTTP.**
 
 TODO explanations/references
 
