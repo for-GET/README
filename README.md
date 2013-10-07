@@ -28,7 +28,7 @@ Dependencies and their reference implementations:
 * 1. and 3. need a server
     * [HTTPDD Server](https://github.com/for-GET/server)
 * 2. needs an FSM
-    * [HTTP decision diagram](https://github.com/for-GET/http-decision-diagram)
+    * [HTTPDD (HTTP decision diagram)](https://github.com/for-GET/http-decision-diagram)
     * [HTTPDD Machine](https://github.com/for-GET/machine)
 * 1.1. and 1.2. need parsers
     * [Core PEGjs](https://github.com/for-GET/core-pegjs)
