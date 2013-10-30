@@ -6,8 +6,12 @@ This GitHub organization focuses on designing abstract HTTP helpers or coding re
 
 ## More bla
 
+* http://www.youtube.com/watch?v=9Qnx1h5cQxo
 * http://hyperrest.github.io/2013-06-10-http-hell-no/
-* TODO explanations/references
+* http://hyperrest.github.io/2013-10-14-man-overboard/
+* http://www.youtube.com/watch?v=UqTlToUYK1E
+* https://vimeo.com/20784244
+* http://seancribbs.com/tech/2012/01/16/webmachine-vs-grape/
 
 
 ## HTTP flow overview
@@ -33,7 +37,14 @@ Dependencies and their reference implementations:
 * 2. needs an FSM
     * [HTTPDD (HTTP decision diagram)](https://github.com/for-GET/http-decision-diagram)
     * [HTTPDD Machine](https://github.com/for-GET/machine)
-* 1.1. and 1.2. need parsers
+* 1.i. and 1.ii. need parsers
     * [Core PEGjs](https://github.com/for-GET/core-pegjs)
-* 2.1., 3.1. and 3.2. need helpers/generators
+* 2.i., 3.i. and 3.ii. need helpers/generators
     * [API PEGjs](https://github.com/for-GET/api-pegjs)
+* 1., 2. and 3. need language agnostic tests
+    * [parse->AST->stringify (API PEGjs)](https://github.com/for-GET/api-pegjs-test)
+    * Decision
+        * [Content Negotiation](https://github.com/for-GET/conneg-test)
+        * Caching
+        * Conditional
+        * ...
