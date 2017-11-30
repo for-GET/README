@@ -19,8 +19,8 @@ This GitHub organization focuses on designing abstract HTTP helpers or coding re
 \* HTTP/2.0 encapsulation is omitted
 
 1. receive request
-    1. parse messaging - [p1-messaging](https://tools.ietf.org/html/draft-ietf-httpbis-p1-messaging)
-    2. parse semantics - [p2-semantics](https://tools.ietf.org/html/draft-ietf-httpbis-p2-semantics) (and extensions)
+    1. parse messaging - [p1-messaging](https://tools.ietf.org/html/rfc7230)
+    2. parse semantics - [p2-semantics](https://tools.ietf.org/html/rfc7231) (and extensions)
 2. prepare response
     1. decide
 3. send response
