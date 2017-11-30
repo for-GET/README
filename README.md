@@ -6,10 +6,10 @@ This GitHub organization focuses on designing abstract HTTP helpers or coding re
 
 ## More bla
 
-* http://www.youtube.com/watch?v=9Qnx1h5cQxo
-* http://hyperrest.github.io/2013-06-10-http-hell-no
-* http://hyperrest.github.io/2013-10-14-man-overboard
-* http://www.youtube.com/watch?v=UqTlToUYK1E
+* https://www.youtube.com/watch?v=9Qnx1h5cQxo
+* https://hyperrest.github.io/2013-06-10-http-hell-no
+* https://hyperrest.github.io/2013-10-14-man-overboard
+* https://www.youtube.com/watch?v=UqTlToUYK1E
 * https://vimeo.com/20784244
 * http://seancribbs.com/tech/2012/01/16/webmachine-vs-grape/
 
@@ -19,8 +19,8 @@ This GitHub organization focuses on designing abstract HTTP helpers or coding re
 \* HTTP/2.0 encapsulation is omitted
 
 1. receive request
-    1. parse messaging - [p1-messaging](http://tools.ietf.org/html/draft-ietf-httpbis-p1-messaging)
-    2. parse semantics - [p2-semantics](http://tools.ietf.org/html/draft-ietf-httpbis-p2-semantics) (and extensions)
+    1. parse messaging - [p1-messaging](https://tools.ietf.org/html/draft-ietf-httpbis-p1-messaging)
+    2. parse semantics - [p2-semantics](https://tools.ietf.org/html/draft-ietf-httpbis-p2-semantics) (and extensions)
 2. prepare response
     1. decide
 3. send response
