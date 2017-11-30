@@ -7,8 +7,8 @@ This GitHub organization focuses on designing abstract HTTP helpers or coding re
 ## More bla
 
 * http://www.youtube.com/watch?v=9Qnx1h5cQxo
-* http://hyperrest.github.io/2013-06-10-http-hell-no/
-* http://hyperrest.github.io/2013-10-14-man-overboard/
+* http://hyperrest.github.io/2013-06-10-http-hell-no
+* http://hyperrest.github.io/2013-10-14-man-overboard
 * http://www.youtube.com/watch?v=UqTlToUYK1E
 * https://vimeo.com/20784244
 * http://seancribbs.com/tech/2012/01/16/webmachine-vs-grape/
